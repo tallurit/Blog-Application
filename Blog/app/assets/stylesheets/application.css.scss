@@ -23,6 +23,7 @@ a {
   border-right: 1px solid #d6dce0;
   color:lightpink;
   font-family: "Monotype Corsiva";
+  font-size: 24px;
   #logo {
     width: 40px;
     position: absolute;
@@ -60,9 +61,9 @@ a {
   .sign_in {
     position: absolute;
     right: 3em;
-    top: 80%;
-    font-size: .8em;
-    color: #9eafba;
+    top: 70%;
+    font-size: 1.2em;
+    color: lightpink;
   }
 }
 
@@ -91,6 +92,7 @@ a {
 
 #main_content {
   margin-left: 250px;
+  padding-left: 30px;
   #header {
     padding: 1em 3em;
     border-bottom: 1px solid #d6dce0;
